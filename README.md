@@ -8,6 +8,7 @@ To make learning more fun, "Kozy: 2gether" aims to be an **online board game pla
 
 This is a project created to help me improve my skills using git, TypeScript, JavaScript and React.
 
+[Imgur](https://i.imgur.com/XbYdsiz.png)
 ## Expected list of features
 
 - [ ] **Multiplayer game experience:** To have a good real-time game experience, the user will be able to join a room using a code (unique for each room). 
