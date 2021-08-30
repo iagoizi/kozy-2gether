@@ -16,6 +16,8 @@ This is a project created to help me improve my skills using git, TypeScript, Ja
 - [ ] **Keeping track of the score and user's position:** The website will be able to keep track of the score changes and the users' position in each room, updating the score and board in real-time if needed. 
 - [ ] **Virtual dice:** To make the user experience more delightful, a dice will be at the center of each room and the user will use it to determine the number of tiles that should be skipped.
 
+Additional info: [wireframes](https://whimsical.com/kozy-2gether-S1VRUpj7eaWLraPfV4U9ep).
+
 ## Environment and tools
 
 - npm version: 6.14.4
